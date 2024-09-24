@@ -2,17 +2,13 @@
 
 <br />
 
-Sou um desenvolvedor Frontend apaixonado por criar sites e aplicações web responsivos e acessíveis. Minha jornada começou em 2020.
+Sou um desenvolvedor front-end experiente, com uma sólida trajetória em construir e liderar soluções web complexas. Ao longo dos anos, fui responsável por projetar arquiteturas escaláveis, implementar interfaces de usuário eficientes e otimizar o desempenho do front-end para atender aos objetivos de negócios.
 
-Em 2021, fui promovido a Desenvolvedor Frontend, me aprofundando em Next.js e React.js. Colaborei de perto com equipes de back-end e designers, enquanto gerenciava o controle de versão com Git, GitLab e Azure DevOps.
+No meu papel, liderei processos de tomada de decisão técnica, garantindo a adoção das melhores práticas em React e Next.js, com foco em entregar código de alta performance e fácil manutenção. Tenho experiência prática no desenvolvimento baseado em componentes, incluindo a criação de elementos de UI reutilizáveis, como modais, sistemas de pesquisa, carrinhos de compras e componentes de visualização de dados dinâmicos, como gráficos de barras.
 
-Atualmente sou desenvolvedor de software, construindo projetos frontend para diversos clientes. Meu trabalho envolve projetar arquitetura do lado do cliente, resolver problemas complexos de API e participar ativamente no gerenciamento de projetos.
+Como líder de equipe, mentorei desenvolvedores, realizei revisões de código e apliquei práticas como clean code, testes e documentação para garantir a qualidade do projeto e a produtividade da equipe. Também contribui para a melhoria de código legado, implementei novas funcionalidades usando frameworks modernos e gerenciei com sucesso migrações de projetos, como a migração de React.js para Vite.
 
-Tenho experiência com tecnologias como HTML5, CSS3, SASS, Tailwind, Material-UI, JavaScript ES6, TypeScript, React.js, Redux, Context API, Next.js, Styled-Components, Storybook, Jest, APIs REST, Kanban e Scrum.
-
-Essa jornada me deu uma visão abrangente dos aspectos técnicos e de gerenciamento de projetos do desenvolvimento front-end. Prospero colaborar com equipes multidisciplinares e melhorar continuamente minhas habilidades.
-
-Vamos criar algo incrível juntos! 🚀
+Meu trabalho também envolve uma estreita colaboração com equipes multifuncionais, integrando soluções front-end com APIs de back-end e alinhando objetivos técnicos com metas de negócios. Tenho orgulho de criar experiências de usuário envolventes, equilibrando escalabilidade técnica e desempenho.
 
 <br />
 
